@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+streamlit
+keras
+tensorflow==2.12
+matplotlib
+glob2
+pickle-mixin
